@@ -1,0 +1,11 @@
+<ul>
+  <li *ngFor="let currency of currencies" class="item">
+    <b>{{ currency.key }}</b> | מגמה:
+    <span>
+      {{ currency.currentChange | number : "0.0-3" }} | תאריך עדכון אחרון:
+    </span>
+    <span>
+      {{ currency.lastUpdate | date : "dd/MM/yyyy" }}
+    </span>
+  </li>
+</ul>

@@ -1,0 +1,12 @@
+C:\Dev\Test4\WebApi\Common\bin\Debug\net6.0\Common.deps.json
+C:\Dev\Test4\WebApi\Common\bin\Debug\net6.0\Common.dll
+C:\Dev\Test4\WebApi\Common\bin\Debug\net6.0\Common.pdb
+C:\Dev\Test4\WebApi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Dev\Test4\WebApi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Test4\WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Dev\Test4\WebApi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Dev\Test4\WebApi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Dev\Test4\WebApi\Common\obj\Debug\net6.0\Common.dll
+C:\Dev\Test4\WebApi\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Dev\Test4\WebApi\Common\obj\Debug\net6.0\Common.pdb
+C:\Dev\Test4\WebApi\Common\obj\Debug\net6.0\ref\Common.dll
